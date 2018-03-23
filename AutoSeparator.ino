@@ -1,3 +1,15 @@
+/**
+  AutoSeparator.ino
+  
+  Martin (Tsz) Lui, James H. Bannock, Simon T. Turner and John C. de Mello
+  Imperial College London and Norges teknisk-naturvitenskapelige universitet
+  Licence GNU 3.0
+
+  Arduino code for Automated Liquid-Liquid Separator as described in:
+  "Automated separation of immiscible liquids using an optically monitored porous capillary"
+  in Reaction Chemistry and Engineering (Royal Society of Chemistry)
+*/
+
 #include <Arduino.h>
 #include "ADS1115.h"
 
