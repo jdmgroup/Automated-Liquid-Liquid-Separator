@@ -1,7 +1,7 @@
 /**
   AutoSeparator.ino
   
-  Martin (Tsz) Lui, James H. Bannock, Simon T. Turner and John C. de Mello
+  James H. Bannock, Martin (Tsz) Lui, Simon T. Turner and John C. de Mello
   Imperial College London and Norges teknisk-naturvitenskapelige universitet
   Licence GNU 3.0
 
